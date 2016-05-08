@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8DCAB431-285C-2BFB-7641-8E4495EBD435}") = "Virtual Gamelan 2.0", "Assembly-CSharp.csproj", "{49F1D2B3-E820-A665-EDCA-FF2F0C1A9C26}"
+EndProject
+Project("{8DCAB431-285C-2BFB-7641-8E4495EBD435}") = "Virtual Gamelan 2.0", "Assembly-CSharp-Editor.csproj", "{8656022F-652D-A973-1A87-783883FDA1E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F1D2B3-E820-A665-EDCA-FF2F0C1A9C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F1D2B3-E820-A665-EDCA-FF2F0C1A9C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F1D2B3-E820-A665-EDCA-FF2F0C1A9C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F1D2B3-E820-A665-EDCA-FF2F0C1A9C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8656022F-652D-A973-1A87-783883FDA1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8656022F-652D-A973-1A87-783883FDA1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8656022F-652D-A973-1A87-783883FDA1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8656022F-652D-A973-1A87-783883FDA1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
